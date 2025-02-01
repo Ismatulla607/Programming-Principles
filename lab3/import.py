@@ -1,0 +1,15 @@
+import Functions1 as x
+
+print(x.to_gramm(10))
+print(x.toC(10))
+print(*x.solve(35,94))
+print(x.prime(11))
+print(*x.perm("KBTU"))
+print(x.inverse("Hello world"))
+print(x.has_33([1,3,1,3,3]))
+print(x.spy_game([1,2, 0, 0, 5, 7]))
+print(x.vol(2.5))
+print(*x.uniquelist([2, 4, 5, 4, 1, 8]))
+print(x.pol("Money yenoM"))
+x.his([1,6,8])
+x.chislo()
